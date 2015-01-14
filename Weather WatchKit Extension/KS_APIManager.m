@@ -7,8 +7,8 @@
 //
 
 #import "KS_APIManager.h"
-//#import "JFWeatherData.h"
-//#import "JFWeatherManager.h"
+#import "JFWeatherData.h"
+#import "JFWeatherManager.h"
 @implementation KS_APIManager
 
 +(NSString *)weather{
